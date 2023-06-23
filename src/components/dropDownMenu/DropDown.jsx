@@ -218,8 +218,8 @@ const DropDown = () => {
                                 className="w-52 lg:w-52 h-52 lg:h-48 object-cover "
                               />
                             </div>
-                            <div className=" tracking-widen flex flex-col ml-3 ">
-                              <h3 className="font-bold text-2xl  ">
+                            <div className=" tracking-widen flex flex-col ml-3 justify-between">
+                              <h3 className="font-bold text-2xl text-start -mt-1">
                                 {item.name}
                               </h3>
                               <p className="mt-3 italic w-40 text-xl">

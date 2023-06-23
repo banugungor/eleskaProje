@@ -9,18 +9,18 @@ const Products = () => {
     },
     {
       image:
-        "https://www.dominos.de/ManagedAssets/DE/product/PSSA/DE_PSSA_all_hero_10571.jpg?v-377603643",
-      title: "This is title 2",
+        "https://img.freepik.com/free-photo/side-view-french-fries-with-seasoning_141793-4899.jpg?w=996&t=st=1687532082~exp=1687532682~hmac=a884ddabc0e528f78ef7670c2e1586f31821d142f95d81dee81fc8b04e87cbb5",
+      title: "Çıtır Patates",
     },
     {
       image:
-        "https://www.dominos.de/ManagedAssets/DE/product/PDUT/DE_PDUT_all_hero_11734.png?v-124775118",
-      title: "This is title 3",
+        "https://img.freepik.com/free-photo/side-view-doner-with-grilled-chicken-greens-lettuce-tomato-french-fries-table_141793-4881.jpg?w=996&t=st=1687532203~exp=1687532803~hmac=8e9dd97c05e2e488c42381a9cd8bc41a4d6184e59daf7583b28b2d7b5d9a5bef",
+      title: "Et Dürüm",
     },
     {
       image:
-        "https://www.dominos.de/ManagedAssets/DE/product/PBOS/DE_PBOS_all_hero_11872.png?v-2113143995",
-      title: "This is title 4",
+        "https://img.freepik.com/premium-photo/pour-soft-drink-glass-with-ice-splash-dark-background_79161-3.jpg?w=996",
+      title: "Coca Cola",
     },
     {
       image:
